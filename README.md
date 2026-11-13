@@ -27,7 +27,7 @@ The static site is written to `dist/` and can be deployed as-is to Vercel, Netli
 
 ## Updating the content
 
-**All content lives in one file: [`src/data/portfolio.ts`](src/data/portfolio.ts).** It was generated from the resume, and every component reads from it.
+**All content lives in one file: [`src/data/portfolio.js`](src/data/portfolio.js).** It was generated from the resume, and every component reads from it.
 
 | To change… | Edit |
 | --- | --- |
