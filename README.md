@@ -55,7 +55,7 @@ This rebuilds the responsive WebP portraits and the social share image in `publi
 
 ```
 src/
-  data/portfolio.ts        ← single source of truth (from the resume)
+  data/portfolio.js        ← single source of truth (from the resume)
   App.tsx                  ← stages: opening → profile select → home; overlays
   components/
     OpeningSequence        ← black → studio card → SUSHMITA → THE SERIES → portrait → ▶ PLAY
