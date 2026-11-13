@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Rounded Black Squircle Background -->
+  <rect x="0" y="0" width="512" height="512" rx="115" ry="115" fill="#0B0B0B" />
+  
+  <!-- Rounded Red Letter 'R' -->
+  <path d="M 164 396 
+           L 164 132 
+           Q 164 116 180 116 
+           L 264 116 
+           C 328 116 364 152 364 202 
+           C 364 248 332 280 278 286 
+           L 354 396" fill="none" stroke="#DC1422" stroke-width="46" stroke-linecap="round" stroke-linejoin="round" />
+        
+  <!-- Middle Horizontal Bar of 'R' -->
+  <line x1="164" y1="286" x2="278" y2="286" stroke="#DC1422" stroke-width="46" stroke-linecap="round" />
+</svg>
