@@ -1,11 +1,11 @@
-# SUSHMITA — THE SERIES
+# RAKESH — THE SERIES
 
-A cinematic, streaming-inspired portfolio for **Sushmita Dasari**: Full-Stack Developer and B.Tech AI & ML student.
+A cinematic, streaming-inspired portfolio for **Rakesh Anarajula**: Full-Stack Developer and B.Tech AI & ML student.
 Every section is an episode, every project is an Original, and the whole site plays like a series.
 
 > A personal portfolio with a fictional streaming-platform look. It is not affiliated with Netflix or any other streaming service and uses none of their logos.
 
-## Run it locally
+## Run it locally 
 
 Requires **Node.js 18+**.
 
